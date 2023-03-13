@@ -1,6 +1,4 @@
 ### Hi there 👋
 
-<a href="#">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dheevvvv&custom_title=My GitHub    stats&include_all_commits=true&count_private=true&show_icons=true&hide=issues" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheevvvv&layout=compact" />
-</a>
+(https://img.shields.io/badge/Languages-40%25%20Python%2C%2030%25%20JavaScript%2C%2020%25%20PHP%2C%2010%25%20HTML%2FCSS-blue)](https://github.com/dheevvvv)
+
